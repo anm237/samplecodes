@@ -1,5 +1,5 @@
 # Sonarqube Scanning
-This builder allows you to run static code analysis using Sonarqube on your code.
+This builder allows you to run static code analysis using Sonarqube on your code..
 
 ## Building this builder
 Run the command below to build this builder
